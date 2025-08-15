@@ -1,1 +1,30 @@
-PDF of online article on AI robotics advancements
+Robot Conference 2025
+NEWS PROVIDED BY
+EngineAI 
+Aug 11, 2025, 07:32 ET
+SHENZHEN, China, Aug. 11, 2025 /PRNewswire/ -- EngineAI, an innovation practitioner in humanoid robotics, showcased its latest advancements and a range of cutting-edge products at the World Robot Conference 2025, held in Yizhuang, Beijing, on August 8, highlighting its efforts in the field of robotics innovation.
+
+Continue Reading
+ T800
+T800
+PM01
+PM01
+JS01
+JS01
+Committed to driving innovation through in-house research and development, as well as fostering an open-source ecosystem, EngineAI is focused on accelerating the commercialization of robotics technologies and promoting cross-industry collaboration. During the event, the company engaged in high-level discussions with global counterparts to chart a course for future advancements. EngineAI's contributions are helping to build an open and collaborative global robotics ecosystem, reinforcing its mission to enhance innovation capabilities and strengthen its competitive position in the global robotics market. 
+
+The spotlight was on EngineAI's PM01 humanoid robot, which demonstrated impressive dexterity with lifelike movements, including autonomous fall recovery. Its ability to navigate complex environments showcased its adaptability, while its precise sitting and resting motions demonstrated its integration into everyday scenarios. In a live showcase, the PM01 also impressed audiences with its high-speed running ability, exhibiting remarkable dynamic performance. Enhanced by advanced algorithms, its gait was notably more fluid and natural, making it a standout feature of the expo.
+
+Making its global debut, the T800, EngineAI's first heavy-duty, full-sized humanoid robot, stole the show. Standing at 1.85 meters (6 feet 1 inch) tall and weighing 85 kg (187 pounds), the T800 is built with 41 high-degree-of-freedom joints, a solid-state battery, and an aluminum alloy exoskeleton, offering robust structural integrity for heavy-load tasks. It also boasts enhanced endurance for demanding, high-load, and dynamic environments.
+
+The T800 is equipped with a multi-sensor fusion system, which enables real-time environmental data processing and rapid decision-making. This integration boosts operational efficiency and safety, setting a new standard for humanoid robotics in industrial applications.  
+
+The robot is scheduled to compete in the EngineAI Robot Free Combat Tournament: "Mecha King" on December 24, 2025.
+
+In addition, EngineAI teased the upcoming SA02, a lightweight humanoid robot designed for young enthusiasts. With a starting price of US 5,300, SA02 promises to make humanoid robotics more accessible to the next generation of engineers and robotics fans.
+
+EngineAI also debuted the JS01, a high-mobility quadrupedal robot built for rugged terrains. Featuring bionic mechanics, adaptive shock-absorbing joints, LiDAR, and depth cameras, the JS01 can traverse slippery and uneven surfaces with ease. Its terrain-sensing algorithms allow it to adjust its gait in real time, ensuring stable all-terrain performance. The modular design enables customizable add-ons, making it ideal for industrial inspections, emergency rescue, and logistics operations. 
+
+Looking ahead, EngineAI remains committed to an innovation-driven strategy, advancing mission-critical robotics with faster development cycles and stronger performance in extreme environments. By uniting industry, academia, and research, the company is scaling embodied AI and expanding robotics into manufacturing, daily life, and beyond. With open partnerships and global collaboration, EngineAI aims to shape the next wave of smart transformation.
+
+SOURCE EngineAI
